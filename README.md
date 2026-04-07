@@ -53,6 +53,5 @@ Follow the on-screen prompts to enter the currencies and amounts.
 
 ## Future Improvements
 
-- Add tkinter GUI for better user interface
 - Enhanced modularity and code organization
 - Input validation and error handling
